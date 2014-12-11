@@ -1,0 +1,13 @@
+# Default github user(peng.miao@yottaa.com)
+Host github.com
+ HostName github.com
+ User git
+ IdentityFile /Users/mios/.ssh/id_rsa
+
+# second user(mios426@gmail.com)
+Host mios.github.com
+ HostName github.com
+ User git
+ IdentityFile /Users/mios/.ssh/id_rsa_mios
+
+

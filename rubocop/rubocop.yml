@@ -1,0 +1,10 @@
+Style/Encoding:
+  Enabled: false
+
+Style/LineLength:
+  Max: 80 
+  Enabled: false
+
+Void:
+  # == operator used in void context
+  Enabled: false
