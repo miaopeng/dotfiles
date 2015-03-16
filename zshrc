@@ -35,7 +35,7 @@ alias y='sudo /opt/nginx/sbin/nginx'
 alias bi='bundle install'
 alias pc='RAILS_ENV=feature bundle exec rake assets:precompile'
 alias pcpr='RAILS_ENV=production bundle exec rake assets:precompile'
-alias pcclear='rake assets:clobber'
+alias pcx='rake assets:clobber'
 
 # apps
 alias mysql='sudo /opt/local/lib/mysql5/bin/mysql -u root -p'
@@ -103,3 +103,5 @@ export LANG=en_US.UTF-8
 # NVM
 export NVM_DIR="/Users/mios/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin
