@@ -10,9 +10,11 @@ ZSH_THEME="robbyrussell"
 # Example aliases
 alias zshcfg="vi ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias chrome="open -a google\ chrome"
 
 # aliases
 alias -s js=vi
+alias -s html="open -a google\ chrome"
 
 # aliases
 alias cd..="cd .."
@@ -28,8 +30,8 @@ alias filecount='find . -type f | wc -l'
 # nodejs
 alias web="node ~/Dropbox/profile/nodejs/static_server.js"
 
-# yottaa project
-alias y='sudo /opt/nginx/sbin/nginx'
+# Nginx
+alias nginx='sudo /opt/nginx/sbin/nginx'
 
 # Ruby and Rails
 alias bi='bundle install'
@@ -104,4 +106,11 @@ export LANG=en_US.UTF-8
 export NVM_DIR="/Users/mios/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
+# export SSL_CERT_FILE=/System/Library/OpenSSL/cert.pem
+
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/9.4/bin
+
+# docker-machine
+eval "$(docker-machine env default)"
+
+

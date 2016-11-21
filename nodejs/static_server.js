@@ -27,11 +27,22 @@ http.createServer(function(request, response) {
         return;
       }
 
+      switch(getExt(uri)) {
+      case 'svg':
+        response.setHeader("Content-Type", "image/svg+xml");
+        break;
+      default:
+      }
+
       response.writeHead(200);
       response.write(file, "binary");
       response.end();
     });
   });
 }).listen(parseInt(port, 10));
+
+function getExt(uri) {
+  return uri.replace(/.*[\.\/\\]/, '').toLowerCase();
+}
 
 console.log("Static file server running at\n  => http://localhost:" + port + "/\nCTRL + C to shutdown");
