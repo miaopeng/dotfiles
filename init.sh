@@ -6,10 +6,6 @@ function doIt() {
 	ln -s ~/github/dotfiles/ackrc ~/.ackrc
 	ln -s ~/github/dotfiles/zshrc ~/.zshrc
 	ln -s ~/github/dotfiles/pryrc ~/.pryrc
-	ln -s ~/github/dotfiles/jshint/jshintrc ~/.jshintrc
-	ln -s ~/github/dotfiles/jsbeautify/jsbeautifyrc ~/.jsbeautifyrc
-	ln -s ~/github/dotfiles/jsbeautify/cssbeautifyrc ~/.cssbeautifyrc
-	ln -s ~/github/dotfiles/jsbeautify/htmlbeautifyrc ~/.htmlbeautifyrc
 }
 
 # if [ "$1" == "--force" -o "$1" == "-f" ]; then
