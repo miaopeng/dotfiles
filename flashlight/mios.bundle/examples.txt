@@ -1,5 +1,0 @@
-gems ~rubygemsquery(query here)
-search rubygems for ~rubygemsquery(query here)
-
-eng ~jiraengquery(query here)
-prd ~jiraprdquery(query here)
