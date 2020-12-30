@@ -1,0 +1,354 @@
+[
+  {
+    "name": "mounty",
+    "home": "http://enjoygineering.com/mounty/",
+    "tags": [
+      "mac",
+      "disk",
+      "ntfs"
+    ],
+    "command": "brew cask install mounty",
+    "stars": 4,
+    "downgrade": {
+      "stars": 3,
+      "reason": "sometime problem, files missed"
+    }
+  },
+  {
+    "name": "ngrok",
+    "home": "https://ngrok.com",
+    "tags": [
+      "mobile",
+      "development"
+    ],
+    "command": "ngrok http 8081",
+    "stars": 4
+  },
+  {
+    "name": "Youdao Note",
+    "home": "https://note.youdao.com",
+    "tags": [
+      "note",
+      "neat"
+    ],
+    "pros": [
+      "markdown",
+      "sync"
+    ],
+    "cons": [
+      "No webp support"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "natapp",
+    "home": "https://natapp.cn",
+    "tags": [
+      "ngrok",
+      "mobile",
+      "development"
+    ],
+    "command": "./natapp -authtoken=52fbfad88935b075",
+    "stars": 5
+  },
+  {
+    "name": "shuttle",
+    "description": "A simple SSH shortcut menu for macOS",
+    "tags": [
+      "ssh"
+    ],
+    "home": "http://fitztrev.github.io/shuttle",
+    "stars": 3
+  },
+  {
+    "name": "inboard",
+    "tags": [
+      "design",
+      "collector"
+    ],
+    "home": "https://inboardapp.com",
+    "cons": [
+      "No webp support"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "Moesif Origin & CORS Changer",
+    "tags": [
+      "chrome-extension",
+      "CORS",
+      "development"
+    ],
+    "description": "Just turn it on then it works as charm",
+    "stars": 5
+  },
+  {
+    "name": "TeamViewer",
+    "home": "https://www.teamviewer.com/zhCN/",
+    "tags": [
+      "remote control",
+      "remote desktop access",
+      "development"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "tree",
+    "type": "command",
+    "install": "brew install tree",
+    "pros": [
+      "Add `-J` to prints out JSON",
+      "Add `-h` to prints file size"
+    ],
+    "tags": [
+      "tree",
+      "command"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "Navicat Premium",
+    "tags": [
+      "db"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "MindNode",
+    "tags": "mindmap",
+    "pros": [
+      "多种导出方式",
+      "简洁"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "gulp-template-html",
+    "type": "plugin",
+    "tags": [
+      "gulp",
+      "html",
+      "template",
+      "build"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "Quiver",
+    "type": "app",
+    "description": "好用的开发笔记软件，笔记内容编辑很有特点",
+    "tags": [
+      "snippets",
+      "code",
+      "note"
+    ],
+    "pros": [
+      "markdown",
+      "sync",
+      "多种代码高亮支持",
+      "可选中一个或多个snippet进入展示模式",
+      "导入导出",
+      "插入图片到笔记中"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "react-emotion",
+    "home": "https://emotion.sh/",
+    "refs": [
+      "https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727"
+    ],
+    "type": "npm package",
+    "tags": [
+      "css-in-js",
+      "react",
+      "css"
+    ]
+  },
+  {
+    "name": "ScrollReveal",
+    "home": "https://scrollrevealjs.org/",
+    "type": "npm package",
+    "tags": [
+      "animation",
+      "landing-page",
+      "js"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "Surge",
+    "home": "https://surge.sh",
+    "type": "command",
+    "tags": [
+      "deploy",
+      "static-pages",
+      "html"
+    ],
+    "pros": [
+      "neat",
+      "friendly",
+      "custom-subdomain-name"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "figma",
+    "home": "https://www.figma.com/",
+    "tags": [
+      "design"
+    ],
+    "likes": [
+      "Sketch"
+    ]
+  },
+  {
+    "name": "Gravit Designer",
+    "home": "https://www.designer.io/",
+    "tags": [
+      "design"
+    ],
+    "likes": [
+      "Sketch"
+    ]
+  },
+  {
+    "name": "Gatsby",
+    "home": "https://www.gatsbyjs.org",
+    "tags": [
+      "static",
+      "development",
+      "react"
+    ],
+    "cons": [
+      "common.js is 1.8m"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "Skala Preview",
+    "home": "https://bjango.com/mac/skalapreview/",
+    "tags": [
+      "preview",
+      "mobile",
+      "design",
+      "sketch"
+    ],
+    "pros": [
+      "preview sketch artboards on mobile immediately"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "trustpilot",
+    "home": "https://www.trustpilot.com/",
+    "tags": [
+      "review",
+      "discover",
+      "company"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "escrow.com",
+    "home": "escrow.com",
+    "tags": [
+      "domain-name",
+      "transfer",
+      "transaction"
+    ],
+    "stars": 4
+  },
+  {
+    "name": "蓝湖",
+    "home": "lanhuapp.com",
+    "tags": [
+      "design",
+      "teamwork",
+      "free"
+    ],
+    "pros": [
+      "Photoshop and Sketch support",
+      "Tip auto generation",
+      "Teamwork",
+      "Good design"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "https://transfonter.org/",
+    "home": "https://transfonter.org/",
+    "description": "生成指定字符的字体文件，可以压缩字体文件大小",
+    "tags": [
+      "font",
+      "transfer"
+    ],
+    "pros": [
+      "TTF/EOT/WOFF/WOFF2/SVG font types support",
+      "Preview and download"
+    ],
+    "stars": 5
+  },
+  {
+    "name": "PDFKit",
+    "home": "pdfkit.org",
+    "tags": ["pdf", "generation", "Node"],
+    "stars": 5
+  },
+  {
+    "name": "PDFMake",
+    "home": "https://github.com/bpampuch/pdfmake",
+    "tags": ["pdf", "generation", "Node"],
+    "pros": ["both Node and browser", "custom fonts", "document structure", "embed images", "download helpers"],
+    "stars": 5
+  },
+  {
+    "name": "RightFont 4",
+    "home": "https://rightfontapp.com",
+    "tags": ["fonts"],
+    "stars": 4,
+    "price": "$39"
+  },
+  {
+    "name": "fontsquirrel",
+    "home": "https://www.fontsquirrel.com",
+    "description": "免费的字体, 支持将上传字体转换为base64格式",
+    "tags": ["fonts", "free", "base64", "converter"],
+    "stars": 5
+  },
+  {
+    "name": "App Icon Resizer",
+    "description": "生成IOS和Android各种尺寸的应用图标",
+    "tags": ["app", "icon", "generation"],
+    "stars": 4
+  },
+  {
+    "name": "StoryBook",
+    "home": "https://storybook.js.org",
+    "description": "Storybook is a UI development environment and playground for UI components",
+    "tags": ["development", "UI", "components"],
+    "stars": 5
+  },
+  {
+    "name": "AsciiDoc",
+    "home": "https://asciidoctor.org/",
+    "tags": ["document", "markdown"],
+    "alternative": ["markdown"],
+    "description": "这里要向大家严重推荐Asciidoc，你可以把它看成一个增强版的Markdown，预置了非常多的常用格式，而且GitBook直接就支持这个格式（只要把.md 搞成 .adoc 就好），Atom也有实时预览插件。用了一段时间，非常喜欢。"
+  },
+  {
+    "name": "kaleidoscope",
+    "home": "https://www.kaleidoscopeapp.com",
+    "description": "评价比较好的比较/合并软件，支持 Tower, 支持中文，diffMerge的替代品",
+    "download": "https://www.waitsun.com/kaleidoscope-2-2-1.html",
+    "price": "$69.99"
+  },
+  {
+    "name": "ApiPost",
+    "home": "https://www.apipost.cn/",
+    "description": "类似 postman 的 API 联调开发工具",
+    "pros": ["便宜，免费 2 人使用，20/人/月"],
+    "cons": ["界面跟 Postman 比起来，太杂乱了"],
+    "stars": 4
+  }
+]
