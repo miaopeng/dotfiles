@@ -350,5 +350,14 @@
     "pros": ["便宜，免费 2 人使用，20/人/月"],
     "cons": ["界面跟 Postman 比起来，太杂乱了"],
     "stars": 4
+  },
+  {
+    "name": "Paste - Clipboard Manager",
+    "type": "app",
+    "home": "https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235",
+    "description": "剪贴板应用",
+    "pros": ["界面漂亮"],
+    "cons": ["收费"],
+    "stars": 4
   }
 ]
