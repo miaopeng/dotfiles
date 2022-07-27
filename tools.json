@@ -318,6 +318,7 @@
   },
   {
     "name": "App Icon Resizer",
+    "home": "https://apps.apple.com/us/app/app-icon-resizer-air/id1013592989?mt=12",
     "description": "生成IOS和Android各种尺寸的应用图标",
     "tags": ["app", "icon", "generation"],
     "stars": 4
@@ -358,6 +359,30 @@
     "description": "剪贴板应用",
     "pros": ["界面漂亮"],
     "cons": ["收费"],
+    "stars": 4
+  },
+  {
+    "name": "JsonHero",
+    "home": "https://jsonhero.io/",
+    "tags": ["json"],
+    "description": "json file viewer",
+    "stars": 4
+  },
+  {
+    "name": "codeup",
+    "home": "https://www.aliyun.com/product/yunxiao/codeup",
+    "tags": ["代码托管", "部署"],
+    "description": "json file viewer",
+    "pros":["部署方便", "代码比较"],
+    "cons": "只能用于阿里云",
+    "stars": 4
+  },
+  {
+    "name": "formily",
+    "home": "https://formilyjs.org/zh-CN",
+    "tags": ["form", "react", "性能"],
+    "description": "专注于解决表单的性能问题,使用类似 mobx 的响应式方案解决渲染问题",
+    "pros":["性能好", "动态渲染"],
     "stars": 4
   }
 ]

@@ -41,6 +41,7 @@ http
           default:
         }
 
+        response.setHeader('Access-Control-Allow-Origin', '*');
         response.writeHead(200);
         response.write(file, 'binary');
         response.end();
